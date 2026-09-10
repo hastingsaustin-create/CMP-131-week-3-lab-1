@@ -6,6 +6,8 @@
 #Assignment 2
 #10 Sep 2026
 print()
+print("*The Star of Slapshot*")
+print()
 print("Reggie Dunlop ")
 print("40 years of age")
 print("Hockey coach")
@@ -18,5 +20,5 @@ print("===========================")
 print("      Character Quote")
 print("===========================")
 print()
-print("I am personally placing a hundred dollar bounty on the head of Tim McCraken.")
-print("He's the head coach and chief punk on that Syracuse team")
+print("Reggi Dunlop before the last game said, \"I am personally placing a hundred dollar bounty on the head of Tim McCraken.")
+print("He's the head coach and chief punk on that Syracuse team\"")
